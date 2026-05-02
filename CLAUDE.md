@@ -14,6 +14,10 @@ This is the landing page for Ray Hamilton Engineering, LLC and the MTGA Companio
 - Keep the page simple and fast — no unnecessary dependencies
 - Deploy target: Vercel
 
+## URLs
+- Live: https://mtga-companion-web.vercel.app/
+- Repo: https://github.com/RdHamilton/mtga-companion-web
+
 ## Context
 - Company: Ray Hamilton Engineering, LLC
 - Contact: ray.hamilton@stablekernel.com
