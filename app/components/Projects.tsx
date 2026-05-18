@@ -8,7 +8,7 @@ interface Project {
 
 const projects: Project[] = [
   {
-    name: "VaultMTG (MTGA Companion)",
+    name: "VaultMTG",
     description:
       "A desktop companion app for Magic: The Gathering Arena — real-time draft pick recommendations, match history tracking, deck performance analytics, and metagame insights.",
     tags: ["Go", "React", "TypeScript", "SQLite", "Electron"],
