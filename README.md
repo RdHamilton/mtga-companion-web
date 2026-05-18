@@ -1,6 +1,6 @@
 # Ray Hamilton Engineering, LLC — Landing Page
 
-Landing page for Ray Hamilton Engineering, LLC and the MTGA Companion project.
+Landing page for Ray Hamilton Engineering, LLC and the VaultMTG project.
 
 **Live:** https://mtga-companion-web.vercel.app/
 
