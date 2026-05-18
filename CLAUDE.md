@@ -1,8 +1,8 @@
 @AGENTS.md
 
-# MTGA Companion Web — Landing Page
+# VaultMTG Web — Landing Page
 
-This is the landing page for Ray Hamilton Engineering, LLC and the MTGA Companion project.
+This is the landing page for Ray Hamilton Engineering, LLC and the VaultMTG project.
 
 ## Stack
 - Next.js (App Router, TypeScript)
@@ -21,4 +21,4 @@ This is the landing page for Ray Hamilton Engineering, LLC and the MTGA Companio
 ## Context
 - Company: Ray Hamilton Engineering, LLC
 - Contact: ray.hamilton@stablekernel.com
-- Primary product featured: MTGA Companion (desktop app for Magic: The Gathering Arena)
+- Primary product featured: VaultMTG (desktop app for Magic: The Gathering Arena)
