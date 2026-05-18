@@ -1,8 +1,8 @@
 @AGENTS.md
 
-# VaultMTG Web — Landing Page
+# Ray Hamilton Engineering — rhamiltoneng.com
 
-This is the landing page for Ray Hamilton Engineering, LLC and the VaultMTG project.
+This is the portfolio and marketing site for Ray Hamilton Engineering, LLC, hosted at rhamiltoneng.com.
 
 ## Stack
 - Next.js (App Router, TypeScript)
@@ -12,13 +12,13 @@ This is the landing page for Ray Hamilton Engineering, LLC and the VaultMTG proj
 - Always run `npm run lint` before committing
 - Always write Playwright E2E tests for UI changes
 - Keep the page simple and fast — no unnecessary dependencies
-- Deploy target: Vercel
+- Deploy target: AWS S3 + CloudFront (not Vercel; Vercel is for PR previews only)
 
 ## URLs
-- Live: https://vaultmtg-web.vercel.app/
-- Repo: https://github.com/RdHamilton/vaultmtg-web
+- Live: https://rhamiltoneng.com/
+- Repo: https://github.com/RdHamilton/rhamiltoneng-web
 
 ## Context
 - Company: Ray Hamilton Engineering, LLC
 - Contact: ray.hamilton@stablekernel.com
-- Primary product featured: VaultMTG (desktop app for Magic: The Gathering Arena)
+- Projects featured: VaultMTG (desktop app for Magic: The Gathering Arena), rhamiltoneng.com itself

@@ -1,14 +1,14 @@
 # Ray Hamilton Engineering, LLC — Landing Page
 
-Landing page for Ray Hamilton Engineering, LLC and the VaultMTG project.
+Portfolio and marketing site for Ray Hamilton Engineering, LLC — hosted at [rhamiltoneng.com](https://rhamiltoneng.com).
 
-**Live:** https://vaultmtg-web.vercel.app/
+**Live:** https://rhamiltoneng.com/
 
 ## Stack
 
 - [Next.js](https://nextjs.org) (App Router, TypeScript)
 - [Tailwind CSS](https://tailwindcss.com)
-- Deployed on [Vercel](https://vercel.com)
+- Deployed on AWS S3 + CloudFront via Route 53
 
 ## Development
 
@@ -20,4 +20,4 @@ Open [http://localhost:3000](http://localhost:3000) to view locally.
 
 ## Deployment
 
-Pushes to `main` auto-deploy to Vercel. Custom domain to be configured once purchased.
+Pushes to `main` trigger the S3 + CloudFront deploy pipeline. The site is served at `rhamiltoneng.com` (not Vercel).
