@@ -15,8 +15,8 @@ This is the landing page for Ray Hamilton Engineering, LLC and the VaultMTG proj
 - Deploy target: Vercel
 
 ## URLs
-- Live: https://mtga-companion-web.vercel.app/
-- Repo: https://github.com/RdHamilton/mtga-companion-web
+- Live: https://vaultmtg-web.vercel.app/
+- Repo: https://github.com/RdHamilton/vaultmtg-web
 
 ## Context
 - Company: Ray Hamilton Engineering, LLC

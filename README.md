@@ -2,7 +2,7 @@
 
 Landing page for Ray Hamilton Engineering, LLC and the VaultMTG project.
 
-**Live:** https://mtga-companion-web.vercel.app/
+**Live:** https://vaultmtg-web.vercel.app/
 
 ## Stack
 
