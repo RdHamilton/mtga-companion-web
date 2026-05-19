@@ -5,8 +5,9 @@
 This is the portfolio and marketing site for Ray Hamilton Engineering, LLC, hosted at rhamiltoneng.com.
 
 ## Stack
-- Next.js (App Router, TypeScript)
-- Tailwind CSS
+- Next.js 16 (App Router, TypeScript)
+- React 19
+- Tailwind CSS 4
 
 ## Rules
 - Always run `npm run lint` before committing
